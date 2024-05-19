@@ -1,6 +1,6 @@
 # GSP345
 GSP345 - Build Infrastructure with Terraform on Google Cloud: Challenge Lab
-Task 1: Create the configuration files
+## Task 1: Create the configuration files
 
     Run the below commands in cloud Shell:
 
